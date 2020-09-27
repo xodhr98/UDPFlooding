@@ -16,3 +16,8 @@
 4) 악성코드의 분석가를 방해하기 위해 EXE 파일을 난독화하였다.
 ![Alt text](/image/udp.png)
 ![Alt text](/image/peid.png)
+
+
+
+참고
+* 외부링크: <https://t-okk.tistory.com/59/>
