@@ -1,9 +1,9 @@
 # UDP Flooding Malware 제작
-* * *
+
 ### 전체 Flowchart
 
 ![Alt text](/image/flow.png)
-
+* * *
 ### 순서
 1) 악성코드는 서버에 10004번 포트로 'IMHACKER_10자리 숫자' 메시지를 UDP 통신으로 전송한다.
 
